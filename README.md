@@ -1,5 +1,16 @@
-# Meu Portfolio HUB 
+# Portfolio HUB
 
-Este é o meu repositório de portfólio profissional e acadêmico.
+Meu repositório para organizar projetos da faculdade e testes pessoais. 
 
- **Acesse o meu site aqui: https://nathanaelfp10.github.io/PortfolioHUB/
+🔗 **Veja o site rodando aqui:** https://nathanaelfp10.github.io/PortfolioHUB/
+
+---
+
+###  O que tem aqui dentro:
+* `academic-projects`: Trabalhos e projetos da faculdade.
+* `personal-projects`: Meus códigos e testes por fora.
+* `docs`: Slides e PDFs das apresentações.
+* `index.html`: Código da página principal do portfólio.
+
+### 🛠️ Tecnologias:
+Git, GitHub e HTML/CSS.
